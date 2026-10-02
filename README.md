@@ -68,3 +68,7 @@ Both run at the project's bend resolution (Project section of the inspector) and
 | `Sources/VideoDAW` | The app: timeline, viewer, inspector, transport. |
 
 `Sources/VideoDAW/DebugHooks.swift` lists environment variables for driving the app from a script.
+
+## Licence
+
+MIT. See `LICENSE`.
